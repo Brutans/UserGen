@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class A {
+public class App {
     public static void main(String[] args) {
         List<User> users = new ArrayList<>();
         List<User> usersM = new ArrayList<>();
